@@ -546,6 +546,32 @@ p.title-para {
     box-shadow: 0px 0px 25px 5px #8e43e7;
 }
 
+.right-side-img-w8 {
+    background: url(../images/storedevice.png) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 40vw;
+    float: right;
+    width: 55%;
+    border-radius: 250px 0 0 250px;
+
+    cursor: pointer;
+    color: #676669;
+    -webkit-box-shadow: 0px 0px 30px 30px #676669;
+    -moz-box-shadow: 0px 0px 17px 20px #676669;
+    box-shadow: 0px 0px 25px 5px #676669;
+}
+
+.right-side-img-w8:hover{
+    color: #8e43e7;
+    -webkit-box-shadow: 0px 0px 30px 30px #8e43e7;
+    -moz-box-shadow: 0px 0px 17px 20px #8e43e7;
+    box-shadow: 0px 0px 25px 5px #8e43e7;
+}
+
 .left-build-wthree {
     float: left;
     width: 40%;
